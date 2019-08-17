@@ -6,7 +6,7 @@ Video participation is optional but encouraged.
 We also have the #nixos-officehours freenode channel.
 
 * [Zoom meeting link](https://zoom.us/j/120295959)
-* [YouTube Channel link]()
+* [YouTube Channel link](https://www.youtube.com/channel/UC3vIimi9q4AT8EgxYp_dWIw)
 
 ## How it works
 Office Hours is a call that will work in different ways depending on how you participate.
