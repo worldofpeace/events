@@ -1,5 +1,5 @@
 # NixOS Office Hours
-We host Office Hours every other week on Friday at [3:00 PM America/New_York time](https://www.thetimezoneconverter.com/?t=15:00&tz=ET%20(Eastern%20Time)). <br>
+We host Office Hours on every first and third Friday of the month at [3:00 PM America/New_York time](https://www.thetimezoneconverter.com/?t=15:00&tz=ET%20(Eastern%20Time)). <br>
 This is a public and recorded call that will be uploaded to YouTube.
 Video participation is optional but encouraged.
 
