@@ -17,8 +17,7 @@ You could show us that new feature you're working on or open a discussion about 
 For observers you get an overview of community members, their activities, standpoints on certain issues, and what is currently being worked on.
 
 ## Being a guest speaker
-If you'd like to be a guest speaker in the call please reach out to the hosts
-and we'll see if we can get you in the call or a future one.
+If you'd like to be a guest speaker in the call please complete this [typeform](https://worldofpeace767164.typeform.com/to/VXVMro) and our hosts will reach out to you with the details.
 
 ## Agenda
 Each call will generally be structured like this:
