@@ -6,6 +6,7 @@ Video participation is optional but encouraged.
 We also have the #nixos-officehours freenode channel.
 
 * [Zoom meeting link](https://zoom.us/j/120295959)
+* [How to use zoom hand feature](https://support.zoom.us/hc/en-us/articles/205566129-Raise-Hand-In-Webinar)
 * [YouTube Channel link](https://www.youtube.com/channel/UC3vIimi9q4AT8EgxYp_dWIw)
 
 ## How it works
