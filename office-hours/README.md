@@ -47,8 +47,6 @@ don't infringe on them speaking. If you're giving feedback to a participant plea
 respectfully, and to those who are responding to do so with grace. And lastly come prepared
 to do a lot of listening and to share yourself freely.
 
-
-
 ## Getting in touch
 
 Here are the following ways you can get in touch with our hosts:
