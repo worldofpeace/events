@@ -19,6 +19,15 @@ For observers you get an overview of community members, their activities, standp
 ## Being a guest speaker
 If you'd like to be a guest speaker in the call please complete this [typeform](https://worldofpeace767164.typeform.com/to/VXVMro) and our hosts will reach out to you with the details.
 
+If for any particular reason you are unable to complete the form, please contact the hosts via the channels specificed in the [Getting in touch section](#getting-in-touch) with the following details.
+
+```
+Name:
+Pronouns:
+Email:
+What topic you'd like to discuss:
+```
+
 ## Agenda
 Each call will generally be structured like this:
 
@@ -37,8 +46,19 @@ don't infringe on them speaking. If you're giving feedback to a participant plea
 respectfully, and to those who are responding to do so with grace. And lastly come prepared
 to do a lot of listening and to share yourself freely.
 
+
+
+## Getting in touch
+
+Here are the following ways you can get in touch with our hosts:
+
+| Host          |       Email Address       | Freenode Nick | Matrix ID (bridges with Freenode) |
+| ------------- | :-----------------------: | ------------- | --------------------------------- |
+| @grahamc      |    graham@grahamc.com     | gchristenson  | N/A                               |
+| @worldofpeace | worldofpeace@protonmail.ch | worldofpeace  | @worldofpeace:matrix.org          |
+
 ## Volunteering
+
 Organizing tasks are a lot of work but the outcome and
 and the time we get to share together makes it all worth it. <br>
-If you'd like to help out please contact @grahamc or @worldofpeace in
-the appropriate channels.
+If you'd like to help out please contact our hosts in the [appropriate channels](#getting-in-touch).
