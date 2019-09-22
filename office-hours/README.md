@@ -25,6 +25,7 @@ If for any particular reason you are unable to complete the form, please contact
 Name:
 Pronouns:
 Email:
+GitHub Handle (if applicable):
 What topic you'd like to discuss:
 ```
 
