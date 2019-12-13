@@ -53,7 +53,7 @@ Here are the following ways you can get in touch with our hosts:
 
 | Host          |       Email Address       | Freenode Nick | Matrix ID (bridges with Freenode) |
 | ------------- | :-----------------------: | ------------- | --------------------------------- |
-| @grahamc      |    graham@grahamc.com     | gchristenson  | N/A                               |
+| @grahamc      |    graham@grahamc.com     | gchristensen  | N/A                               |
 | @worldofpeace | worldofpeace@protonmail.ch | worldofpeace  | @worldofpeace:matrix.org          |
 
 ## Volunteering
